@@ -1,0 +1,4 @@
+export const SET_CURRENCIES = 'SET_CURRENCIES';
+export const SET_PRESETS = 'SET_PRESETS';
+export const SET_AMOUNT = 'SET_AMOUNT';
+export const SET_CURRENCY_CODE = 'SET_CURRENCY_CODE';
